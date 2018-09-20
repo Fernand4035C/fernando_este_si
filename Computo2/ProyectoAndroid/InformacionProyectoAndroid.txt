@@ -1,1 +1,12 @@
 pensar en un proyecto pequeño que permita registrar en una base de datos.
+
+
+*Planteamiento del problema:
+ crear una pagina  web para un parqueo de carros y motos donde el cliente a la hora de dejar el veiculo en el parqueo tiene que registrar su nombre apellido placas del veiculo y numero de telefono.
+
+CAMPOS QUE TENDRIA 
+id
+nombre
+apellido
+placas del vehiculo
+numero de telefono
